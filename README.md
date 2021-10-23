@@ -24,11 +24,10 @@ Breweries.csv:
   State: U.S. State where the brewery is located.
 
 The RMD has the code of analysis
-HTML has the output of the file
 
 # Steps to replicate
 Download the Beer and Breweries csv.
-Download the RMD and update the location of the file in read.csv("")
+Download the RMD and update the location of the file in read.csv("") and that will pring out the HTML file
 
 
 
