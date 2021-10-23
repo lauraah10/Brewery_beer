@@ -26,8 +26,9 @@ Breweries.csv:
 The RMD has the code of analysis
 
 # Steps to replicate
-Download the Beer and Breweries csv.
-Download the RMD and update the location of the file in read.csv("") and that will pring out the HTML file
+  Download the Beer and Breweries csv.
+  Download the RMD and update the location of the file in read.csv("") 
+  Run it. That will print out the HTML file
 
 
 
